@@ -1,6 +1,7 @@
 ---
 title: "Homework 01"
 subtitle: "due Wednesday, January 19 at 11:59pm EST"
+author: "Jason Gerber"
 output: 
   tufte::tufte_html:
     css: "sta310-hw.css"
